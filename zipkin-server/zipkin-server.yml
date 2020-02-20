@@ -1,1 +1,2 @@
-zipkin-server.yml
+server:
+  port: 9411
